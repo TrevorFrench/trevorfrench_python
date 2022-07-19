@@ -45,3 +45,4 @@ print(anova_table)
 
 ## ACTION LIST
 - Continue adding statistical methods
+- Update README to have emojis instead of shortcuts and push to PyPi again
