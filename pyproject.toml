@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "trevorfrench"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
   { name="Trevor French", email="FrenchTrevor@outlook.com" },
 ]
@@ -19,5 +19,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://trevorfrench.com"
-"Bug Tracker" = "https://trevorfrench.com"
+"Homepage" = "https://github.com/TrevorFrench/trevorfrench_python"
+"Bug Tracker" = "https://github.com/TrevorFrench/trevorfrench_python"
